@@ -9,10 +9,6 @@
 ⚡️ Typing animation using `Typed.js`\
 ⚡️ Easy to modify
 
-## Todo 📦
-
-- <b>NOTE:</b> Make sure to set `analyticsId` from your Google Analytics account inside the Google Analytics script tag, if you want to use your own Google Analytics account.
-
 ## Sections 📚
 
 ✔️ About me\
@@ -22,8 +18,6 @@
 ✔️ Education\
 ✔️ Contact Info\
 ✔️ Resume
-
-To view a live example, **[click here](https://salahabdinoor.github.io/)**
 
 ## Tools Used 🛠️
 
